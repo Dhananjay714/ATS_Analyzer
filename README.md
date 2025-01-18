@@ -64,6 +64,5 @@ The ATS Resume Analyzer is an AI-driven application aimed at helping job seekers
 ## Contribution
 We welcome contributions! Feel free to open pull requests, report bugs, or propose new features.
 
-## License
-This project is open-source and distributed under the MIT License.
+
 
